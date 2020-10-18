@@ -1,3 +1,10 @@
+[![GitHub issues](https://img.shields.io/github/issues/whuera/git-commands)](https://github.com/whuera/git-commands/issues)
+[![GitHub forks](https://img.shields.io/github/forks/whuera/git-commands)](https://github.com/whuera/git-commands/network)
+[![GitHub stars](https://img.shields.io/github/stars/whuera/git-commands)](https://github.com/whuera/git-commands/stargazers)
+[![GitHub license](https://img.shields.io/github/license/whuera/git-commands)](https://github.com/whuera/git-commands)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FWilliamHuera)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fwhuera%2Fgit-commands)
+
+
 # Basic Git Commands
 ============
 
